@@ -1,0 +1,26 @@
+## Directory Structure
+- `pwd`: Print current working directory
+- `ls`: List files and directories
+- `cd /`: Change to root directory
+
+## Create Directories and Files
+- `mkdir mydirectory`: Create a new directory
+- `touch myfile.txt`: Create a new file
+- `rmdir mydirectory`: Remove directory (only if empty)
+- `rm myfile.txt`: Remove file
+
+## File Viewing and Editing
+- `cat /etc/os-release`: View file contents
+- `less /etc/os-release`: View file contents page by page
+- `vi myfile.txt`: Edit file using vi
+
+## File Permissions
+- `ls -l`: View file permissions
+- `chmod 755 myfile.txt`: Modify file permissions
+- `sudo chown option myfile.txt`: Modify file ownership
+
+## System Monitoring
+- `top`: View system resource usage
+- `htop`: View system resource usage (install htop first)
+- `df -h`: View disk space usage
+- `free -m`: View memory usage
