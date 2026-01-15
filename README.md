@@ -5,6 +5,7 @@ STEP-1
 1. Create a Virtual Machine:
     - VM: Create a new VM, allocate 2 GB RAM, 2 CPU cores, and 20 GB disk space.
 2. Login: Login to Linux Machine using the created username and password.
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/adfa7ef0-9701-493e-b50f-425986bef518" />
 
 STEP-2
 # Explore Directory Structure1. Open Terminal: Open the terminal application.(Moba/Putty)
@@ -13,6 +14,7 @@ STEP-2
 bash
 pwd
 Output: `/home/username`
+<img width="1366" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/144f958e-6e3d-4030-b60f-bc7efaa894d8" />
 
 2. ls: List files and directories in the current directory
 # Command
