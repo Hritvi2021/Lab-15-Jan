@@ -32,7 +32,7 @@ cd /
 bash
 ls
 Output: `bin  boot  dev  etc  home  lib  lib64  lost+found  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var`
-
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/9fef8186-a565-4ea6-8644-b744495131df" />
 STEP-3
 1. Create Directories and Files1. mkdir: Create a new directory.
 # Command
@@ -59,6 +59,7 @@ rmdir mydirectory
 # Command
 bash
 rm myfile.txt
+<img width="1366" height="768" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/3e6f3a4a-6e96-4591-80b1-529011841cd9" />
 
 STEP-4
 1. File Viewing and Editing1. cat: View the contents of a file.
@@ -76,6 +77,7 @@ less /etc/os-release
 # Command
 bash
 vi myfile.txt
+<img width="1366" height="768" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/7d689460-9dd4-4fcb-ae45-06c8ade59885" />
 
 STEP-5
 1. File Permissions1. ls -l: View file permissions.
@@ -93,12 +95,14 @@ chmod 755 myfile.txt
 # Command
 bash
 sudo chown root myfile.txt
+<img width="1366" height="768" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/eb5ee6e5-082d-4ba9-981f-28caebd84bcf" />
 
 STEP-6
 1. System Monitoring1. top: View system resource usage.
 # Command
 bash
 top
+
 
 2. htop: View system resource usage (install htop first).
 # Command
@@ -115,6 +119,7 @@ df -h
 # Command
 bash
 free -m
+<img width="1366" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/84ebf02d-4060-453b-97f8-e8030e0e3a2b" />
 
 
 Command Log File (Used commadns)
